@@ -1,11 +1,11 @@
-function multiply(x, y) {
+const multiply = (x, y) => {
     return x * y;
 }
 
-function add(a, b) {
+const add = (a, b) => {
     return a + b;
 }
 
-function subtract(a, b) {
+const subtract =(a, b) =>{
     return a - b;
 }
